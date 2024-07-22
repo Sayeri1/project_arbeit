@@ -25,7 +25,7 @@ Set the folder path: Update the folder_path variable in the script to the path w
 ## Functions
 Functions Overview  
 count_rows_in_csv_files: Counts the number of rows in each CSV file in a specified folder, excluding headers.  
-combine_csv_files: Combines all CSV files in a specified folder into a single DataFrame.
+combine_csv_files: Combines all CSV files in a specified folder into a single DataFrame.  
 Data Cleaning and Preparation: Cleans and preprocesses the data by dropping unwanted rows and selecting specific columns.  
 Time Series Windowing: Creates sliding windows of data for time series classification.  
 Random Forest Classification: Trains a Random Forest classifier on the prepared data and evaluates its performance.
